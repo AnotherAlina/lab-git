@@ -1,2 +1,3 @@
+Zmiana lokalna SmartGit
 test_2
 Nowa linia z galezi test_branch
